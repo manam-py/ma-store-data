@@ -169,6 +169,23 @@
       "developer": "MaStudio",
       "isFeatured": true,
       "githubReleaseTag": "puzzle-v2"
+    },
+    {
+      "id": "11",
+      "name": "Baiboliko",
+      "packageName": "com.test.baiboliko",
+      "description": "Application de test pour vérifier que le téléchargement fonctionne depuis GitHub.",
+      "category": "Jeux",
+      "latestVersionCode": 1,
+      "latestVersionName": "1.0.0",
+      "changelog": "🎉 Première release de test",
+      "minSdk": 21,
+      "sizeBytes": 10000000,
+      "downloadCount": 0,
+      "rating": 0.0,
+      "developer": "MaStudio",
+      "isFeatured": true,
+      "githubReleaseTag": "test"
     }
   ]
 }
