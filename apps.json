@@ -174,7 +174,7 @@
       "id": "11",
       "name": "Baiboliko",
       "packageName": "com.test.baiboliko",
-      "description": "Application de test pour vérifier que le téléchargement fonctionne depuis GitHub.",
+      "description": "Application de test pour vérifier que le téléchargement fonctionne depuis GitHub.\n\nFonctionnalités:\n• Interface moderne\n• Téléchargement rapide\n• Mises à jour automatiques",
       "category": "Jeux",
       "latestVersionCode": 1,
       "latestVersionName": "1.0.0",
@@ -185,7 +185,16 @@
       "rating": 0.0,
       "developer": "MaStudio",
       "isFeatured": true,
-      "githubReleaseTag": "test"
+      "githubReleaseTag": "test",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/baiboliko.jpg",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/baiboliko_1.jpg",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/baiboliko_2.jpg",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/baiboliko_3.jpg",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/baiboliko_4.jpg",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/baiboliko_5.jpg",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/baiboliko_6.jpg"
+      ]
     }
   ]
 }
