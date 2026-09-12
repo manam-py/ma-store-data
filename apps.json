@@ -15,7 +15,13 @@
       "rating": 4.5,
       "developer": "MaStudio",
       "isFeatured": true,
-      "githubReleaseTag": "photoeditor-v3"
+      "githubReleaseTag": "photoeditor-v3",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/1.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/1_1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/1_2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/1_3.png"
+      ]
     },
     {
       "id": "2",
@@ -32,7 +38,13 @@
       "rating": 4.8,
       "developer": "MaStudio",
       "isFeatured": true,
-      "githubReleaseTag": "musicplayer-v5"
+      "githubReleaseTag": "musicplayer-v5",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/2.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/2_1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/2_2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/2_3.png"
+      ]
     },
     {
       "id": "3",
@@ -49,7 +61,13 @@
       "rating": 4.2,
       "developer": "MaStudio",
       "isFeatured": false,
-      "githubReleaseTag": "taskmanager-v2"
+      "githubReleaseTag": "taskmanager-v2",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/3.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/3_1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/3_2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/3_3.png"
+      ]
     },
     {
       "id": "4",
@@ -66,7 +84,13 @@
       "rating": 4.6,
       "developer": "MaStudio",
       "isFeatured": true,
-      "githubReleaseTag": "weather-v4"
+      "githubReleaseTag": "weather-v4",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/4.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/4_1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/4_2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/4_3.png"
+      ]
     },
     {
       "id": "5",
@@ -83,7 +107,13 @@
       "rating": 4.0,
       "developer": "MaStudio",
       "isFeatured": false,
-      "githubReleaseTag": "fitness-v1"
+      "githubReleaseTag": "fitness-v1",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/5.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/5_1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/5_2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/5_3.png"
+      ]
     },
     {
       "id": "6",
@@ -100,7 +130,13 @@
       "rating": 4.9,
       "developer": "MaStudio",
       "isFeatured": false,
-      "githubReleaseTag": "notes-v6"
+      "githubReleaseTag": "notes-v6",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/6.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/6_1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/6_2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/6_3.png"
+      ]
     },
     {
       "id": "7",
@@ -117,7 +153,13 @@
       "rating": 4.3,
       "developer": "MaStudio",
       "isFeatured": true,
-      "githubReleaseTag": "videoeditor-v2"
+      "githubReleaseTag": "videoeditor-v2",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/7.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/7_1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/7_2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/7_3.png"
+      ]
     },
     {
       "id": "8",
@@ -134,7 +176,13 @@
       "rating": 4.7,
       "developer": "MaStudio",
       "isFeatured": false,
-      "githubReleaseTag": "finance-v3"
+      "githubReleaseTag": "finance-v3",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/8.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/8_1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/8_2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/8_3.png"
+      ]
     },
     {
       "id": "9",
@@ -151,7 +199,13 @@
       "rating": 4.4,
       "developer": "MaStudio",
       "isFeatured": false,
-      "githubReleaseTag": "codeeditor-v1"
+      "githubReleaseTag": "codeeditor-v1",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/9.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/9_1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/9_2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/9_3.png"
+      ]
     },
     {
       "id": "10",
@@ -168,7 +222,13 @@
       "rating": 4.7,
       "developer": "MaStudio",
       "isFeatured": true,
-      "githubReleaseTag": "puzzle-v2"
+      "githubReleaseTag": "puzzle-v2",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/icons/10.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/10_1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/10_2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/screenshots/10_3.png"
+      ]
     },
     {
       "id": "11",
