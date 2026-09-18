@@ -6,7 +6,7 @@
       "packageName": "com.baiboliko.app",
       "category": "Applications",
       "latestVersionName": "1.0.0",
-      "latestVersionCode": 9,
+      "latestVersionCode": 10,
       "minSdk": 24,
       "sizeBytes": 69611506,
       "developer": "MaStudio",
@@ -22,7 +22,7 @@
       "colorBg": "rgba(21,101,192,0.12)",
       "githubReleaseTag": "v1.0.0",
       "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/logo.png",
-      "updatedAt": 1789720330145,
+      "updatedAt": 1789724522679,
       "createdAt": 1789672788515,
       "screenshotUrls": [
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/screenshot-1.png",
