@@ -30,6 +30,35 @@
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/screenshot-3.png"
       ],
       "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/v1.1.1/Baiboliko-v1.1.1.apk"
+    },
+    {
+      "id": "1790155246147",
+      "name": "Mada Quiz",
+      "packageName": "com.madaquiz.app",
+      "category": "Jeux",
+      "latestVersionName": "1.0.0",
+      "latestVersionCode": 1,
+      "minSdk": 24,
+      "sizeBytes": 97161165,
+      "developer": "MaStudio",
+      "description": "Teste tes connaissances sur la culture, l'histoire et les curiosités de Madagascar avec plus de 1000 questions réparties sur 100 niveaux, en français comme en anglais. Une seule erreur et c'est raté : prouve que tu es le vrai expert du Grand Île !",
+      "changelog": "Première publication 🎉\n\n- Application initiale : 100 niveaux de quiz sur Madagascar\n- Questions en français et en anglais\n- Système de déblocage des niveaux avec progression sauvegardée\n- Musique et effets sonores réglables (volume, modes)\n- 6 thèmes de couleur, mode compact, minuteur paramétrable",
+      "isFeatured": false,
+      "emoji": "📱",
+      "color": "#f5c211",
+      "colorBg": "rgba(245,194,17,0.12)",
+      "githubReleaseTag": "v1.0.0",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/logo.png",
+      "updatedAt": 1790156093192,
+      "createdAt": 1790156093192,
+      "screenshotUrls": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/screenshot-1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/screenshot-2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/screenshot-3.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/screenshot-4.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/screenshot-5.png"
+      ],
+      "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/v1.0.0/app-release.apk"
     }
   ]
 }
