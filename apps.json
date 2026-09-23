@@ -1,6 +1,35 @@
 {
   "apps": [
     {
+      "id": "1790161125923",
+      "name": "Ma Store",
+      "packageName": "com.mystore.ma_store",
+      "category": "Applications",
+      "latestVersionName": "2.0.0",
+      "latestVersionCode": 1,
+      "minSdk": 24,
+      "sizeBytes": 57179232,
+      "developer": "MaStudio",
+      "description": "Ma Store est ton magasin d'applications personnel où tu peux découvrir, télécharger et gérer tes apps préférées. Note les apps, suis tes téléchargements et retrouve tout au même endroit.\n\n⚠️ Pour installer cette APK, désactive Play Protect : Play Store → ta photo ou ton e-mail en haut à droite → Play Protect → Paramètres → clique sur « Analyser les applications avec Play Protect » → désactive → après tu peux installer l'app.",
+      "changelog": "Première version officielle :\n\n- Découverte et téléchargement d'apps\n- Système de notes par étoiles\n- Bibliothèque avec vérification des mises à jour\n- Thème clair et sombre persistant\n- Recherche rapide et catégories\n- Installation directe avec progression en temps réel\n- Compteurs de téléchargements en temps réel\n\n⚠️ Pourquoi désactiver Play Protect ? Play Store ne vous laisse pas installer d'autres applications qui peuvent faire le même travail que lui. Pour pouvoir installer cette APK, il faut désactiver son détecteur qui est Play Protect.",
+      "isFeatured": false,
+      "emoji": "📱",
+      "color": "#e01b24",
+      "colorBg": "rgba(224,27,36,0.12)",
+      "githubReleaseTag": "v2.0.0",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790161125923/logo.png",
+      "updatedAt": 1790162328967,
+      "createdAt": 1790162328967,
+      "screenshotUrls": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790161125923/screenshot-1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790161125923/screenshot-2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790161125923/screenshot-3.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790161125923/screenshot-4.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790161125923/screenshot-5.png"
+      ],
+      "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/v2.0.0/app-release.apk"
+    },
+    {
       "id": "1789672363455",
       "name": "Baiboliko",
       "packageName": "com.baiboliko.app",
