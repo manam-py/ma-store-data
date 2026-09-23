@@ -6,12 +6,12 @@
       "packageName": "com.baiboliko.app",
       "category": "Applications",
       "latestVersionName": "1.1.1",
-      "latestVersionCode": 9,
+      "latestVersionCode": 10,
       "minSdk": 24,
       "sizeBytes": 69955618,
       "developer": "MaStudio",
-      "description": "Baiboliko — Baiboly sy Fihirana Malagasy. Lisez la Bible et les cantiques spirituels en 8 langues (Malagasy, Français, Anglais, Espagnol, Allemand, Italien, Chinois, Bahasa Indonesia). Navigation par livre, chapitre et verset, favoris, historique, verset du jour et 6 thèmes couleurs. Fonctionne entièrement hors-ligne.",
-      "changelog": "Première version officielle :\n\nBible en 8 langues avec navigation complète\nFihirana : FFPM, Fanampiny, Fifohazana, Katolika et Antema\nSystème de favoris et historique de lecture\nVerset du jour sur l'écran d'accueil\n6 thèmes couleurs (Clair, Sombre, Bleu, Violet, Vert, Orange)\nAjustement taille de police\nAperçu coloré des versets sélectionnés\nFonctionne entièrement hors-ligne\nmise a jour , tena ef commence ho kivy e",
+      "description": "Baiboliko — Baiboly sy Fihirana Malagasy. Une application complète pour lire la Bible et les cantiques spirituels en 8 langues (Malagasy, Français, Anglais, Espagnol, Allemand, Italien, Chinois, Indonésien). Navigation intuitive par livre, chapitre et verset, système de favoris et d'historique, verset du jour, 6 thèmes couleurs, mode Protestant et Catholique, et fonctionnement entièrement hors-ligne. Idéal pour l'étude biblique et le culte au quotidien.",
+      "changelog": "Première version de Baiboliko :\n\n- Bible en 8 langues avec navigation complète\n- Fihirana : FFPM, Fanampiny, Fifohazana, Katolika et Antema\n- Mode Protestant / Catholique\n- Favoris, historique et verset du jour\n- 6 thèmes couleurs et ajustement de police\n- Option 3 cartes sur l'accueil\n- Notes personnelles (Fanekena)\n- Quiz interactifs sur la Bible\n- Fonctionne entièrement hors-ligne",
       "rating": 4,
       "downloadCount": 23,
       "downloadsSite": 0,
@@ -22,12 +22,14 @@
       "colorBg": "rgba(21,101,192,0.12)",
       "githubReleaseTag": "v1.1.1",
       "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/logo.png",
-      "updatedAt": 1790105365534,
+      "updatedAt": 1790159341039,
       "createdAt": 1789672788515,
       "screenshotUrls": [
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/screenshot-1.png",
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/screenshot-2.png",
-        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/screenshot-3.png"
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/screenshot-3.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/screenshot-4.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/screenshot-5.png"
       ],
       "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/v1.1.1/Baiboliko-v1.1.1.apk"
     },
