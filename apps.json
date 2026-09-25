@@ -1,6 +1,35 @@
 {
   "apps": [
     {
+      "id": "1790341068859",
+      "name": "CVForge",
+      "packageName": "com.cvforge.app",
+      "category": "Applications",
+      "latestVersionName": "1.0.0",
+      "latestVersionCode": 1,
+      "minSdk": 24,
+      "sizeBytes": 58607871,
+      "developer": "MaStudio",
+      "description": "CVForge est une application mobile gratuite qui permet de créer un CV professionnel en quelques minutes, directement depuis son téléphone. Elle propose 11 modèles de mise en page élégants et personnalisables, avec édition en temps réel et aperçu PDF instantané. Vos données restent strictement sur votre appareil : aucun compte, aucune connexion Internet, aucun serveur.",
+      "changelog": "Version 1.0.0 (première publication)\nNouveautés :\n- 🎉 Première mise en disponibilité de CVForge\n- 📄 11 modèles de CV professionnels (portrait, latéral, cartes, lignes, bande, split, classique…)\n- ✏️ Éditeur complet : infos personnelles, expériences, formations, compétences, langues, photo, couleurs\n- 👁️ Aperçu PDF avec zoom, export PDF et image PNG vers Téléchargements\n- 💾 Sauvegarde automatique de vos CV et gestion multi-CV (créer, dupliquer, supprimer)\n- 🌙 Thème sombre persistant + splash animé\n- 🔒 100 % hors-ligne : vos données ne quittent jamais votre appareil\n- 📱 Navigation fluide à 4 onglets (Accueil, Modèles, Fichiers, Paramètres)",
+      "isFeatured": false,
+      "emoji": "📱",
+      "color": "#865e3c",
+      "colorBg": "rgba(134,94,60,0.12)",
+      "githubReleaseTag": "v1.0.0",
+      "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790341068859/logo.png",
+      "updatedAt": 1790346485659,
+      "createdAt": 1790346485659,
+      "screenshotUrls": [
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790341068859/screenshot-1.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790341068859/screenshot-2.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790341068859/screenshot-3.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790341068859/screenshot-4.png",
+        "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790341068859/screenshot-5.png"
+      ],
+      "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/v1.0.0/app-release.apk"
+    },
+    {
       "id": "1790161125923",
       "name": "Ma Store",
       "packageName": "com.mystore.ma_store",
