@@ -98,10 +98,10 @@
       "name": "Mada Quiz",
       "packageName": "com.madaquiz.app",
       "category": "Jeux",
-      "latestVersionName": "1.0.0",
-      "latestVersionCode": 1,
+      "latestVersionName": "1.1.0",
+      "latestVersionCode": 2,
       "minSdk": 24,
-      "sizeBytes": 97161165,
+      "sizeBytes": 95496332,
       "developer": "MaStudio",
       "description": "Teste tes connaissances sur la culture, l'histoire et les curiosités de Madagascar avec plus de 1000 questions réparties sur 100 niveaux, en français comme en anglais. Une seule erreur et c'est raté : prouve que tu es le vrai expert du Grand Île !",
       "changelog": "Première publication 🎉\n\n- Application initiale : 100 niveaux de quiz sur Madagascar\n- Questions en français et en anglais\n- Système de déblocage des niveaux avec progression sauvegardée\n- Musique et effets sonores réglables (volume, modes)\n- 6 thèmes de couleur, mode compact, minuteur paramétrable",
@@ -109,7 +109,7 @@
       "emoji": "📱",
       "color": "#f5c211",
       "colorBg": "rgba(245,194,17,0.12)",
-      "githubReleaseTag": "v1.0.0",
+      "githubReleaseTag": "madaquiz-v1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/logo.png",
       "updatedAt": 1790164027721,
       "createdAt": 1790156093192,
@@ -120,7 +120,7 @@
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/screenshot-4.png",
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/screenshot-5.png"
       ],
-      "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/v1.0.0/app-release.apk"
+      "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/madaquiz-v1.1.0/MadaQuiz-v1.1.0.apk"
     }
   ]
 }
