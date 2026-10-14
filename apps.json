@@ -31,7 +31,8 @@
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/screenshot-4.png",
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1789672363455/screenshot-5.png"
       ],
-      "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/v1.1.2/app-release.apk"
+      "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/v1.1.2/app-release.apk",
+      "sha256": "febd649e10f71e198ff6cb2eb185b09f68e129d8d8e1a86d384d98a22a5409a1"
     },
     {
       "id": "1790161125923",
@@ -61,7 +62,8 @@
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790161125923/screenshot-5.png"
       ],
       "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/v2.1.0/app-release.apk",
-      "downloadCount": 5
+      "downloadCount": 5,
+      "sha256": "a08eecddeb4b5e32356eae93372bcec9d8453c6de02b426fd2fbe850e0710bbc"
     },
     {
       "id": "1790341068859",
@@ -91,7 +93,8 @@
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790341068859/screenshot-5.png"
       ],
       "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/v1.1.0/app-release.apk",
-      "downloadCount": 1
+      "downloadCount": 1,
+      "sha256": "78c860d4a564b2546164e40c49f1639f5d6746e081412b44d685aef9ae525cbc"
     },
     {
       "id": "1790155246147",
@@ -120,7 +123,8 @@
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/screenshot-4.png",
         "https://raw.githubusercontent.com/manam-py/ma-store-data/main/assets/1790155246147/screenshot-5.png"
       ],
-      "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/madaquiz-v1.1.0/MadaQuiz-v1.1.0.apk"
+      "downloadUrl": "https://github.com/manam-py/ma-store-data/releases/download/madaquiz-v1.1.0/MadaQuiz-v1.1.0.apk",
+      "sha256": "30c8e818511a58c388f9bbbb860f4eb5a06f4808dc822091bbe3f40841de711e"
     }
   ]
 }
